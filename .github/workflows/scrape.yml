@@ -1,0 +1,69 @@
+name: SportScrape - Daily Sports Schedule
+
+on:
+  # Schedule 3x sehari (WIB: 06:00, 12:00, 18:00)
+  # GitHub Actions pakai UTC, jadi:
+  #   06:00 WIB = 23:00 UTC (hari sebelumnya)
+  #   12:00 WIB = 05:00 UTC
+  #   18:00 WIB = 11:00 UTC
+  schedule:
+    - cron: '0 23 * * *'   # 06:00 WIB
+    - cron: '0 5 * * *'    # 12:00 WIB
+    - cron: '0 11 * * *'   # 18:00 WIB
+
+  # Bisa di-trigger manual dari GitHub UI
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run scraper
+        run: python3 sportscrape.py --output jadwal_hari_ini.json
+
+      - name: Upload to tmpfiles.org
+        if: success()
+        run: python3 sportscrape.py --upload-only
+        env:
+          OUTPUT_FILE: jadwal_hari_ini.json
+
+      - name: Commit & push JSON output
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add jadwal_hari_ini.json
+          git diff --staged --quiet || git commit -m "📅 Update jadwal olahraga - $(date +'%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f jadwal_hari_ini.json ]; then
+            TOTAL=$(python3 -c "import json; d=json.load(open('jadwal_hari_ini.json')); print(d.get('total_matches',0))")
+            POPULAR=$(python3 -c "import json; d=json.load(open('jadwal_hari_ini.json')); print(d.get('popular_matches',0))")
+            UPDATED=$(python3 -c "import json; d=json.load(open('jadwal_hari_ini.json')); print(d.get('last_updated','?'))")
+            echo "## 🏆 SportScrape Result" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+            echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+            echo "| Last Updated | $UPDATED WIB |" >> $GITHUB_STEP_SUMMARY
+            echo "| Total Matches | $TOTAL |" >> $GITHUB_STEP_SUMMARY
+            echo "| Popular Matches | $POPULAR |" >> $GITHUB_STEP_SUMMARY
+          fi
