@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-10 13:12:20",
+  "last_updated": "2026-08-10 18:52:14",
   "timezone": "WIB (UTC+7)",
-  "total_matches": 161,
+  "total_matches": 162,
   "popular_matches": 5,
   "data": {
     "highlight": [
@@ -1116,10 +1116,25 @@
       },
       {
         "sport": "Soccer",
+        "competition": "Calcutta Premier Division",
+        "match_date": "2026-08-10",
+        "match_time": "FT",
+        "match_datetime": "",
+        "home_team": "BSS Sporting",
+        "away_team": "Railway",
+        "home_logo": "https://static.flashscore.com/res/image/data/6H2BjI76-SdCNLmFA.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/OnzkN7S0-2a0ZoHqh.png",
+        "is_real": true,
+        "country": "INDIA",
+        "score_home": "0",
+        "score_away": "2"
+      },
+      {
+        "sport": "Soccer",
         "competition": "Durand Cup",
         "match_date": "2026-08-10",
-        "match_time": "17:30 WIB",
-        "match_datetime": "2026-08-10T17:30:00+07:00",
+        "match_time": "LIVE (59')",
+        "match_datetime": "",
         "home_team": "Mohun Bagan",
         "away_team": "CISF Protectors",
         "home_logo": "https://static.flashscore.com/res/image/data/KpBzuWT0-6mJliLLj.png",
@@ -1936,8 +1951,8 @@
         "sport": "Soccer",
         "competition": "Super League SRI",
         "match_date": "2026-08-10",
-        "match_time": "17:00 WIB",
-        "match_datetime": "2026-08-10T17:00:00+07:00",
+        "match_time": "90+",
+        "match_datetime": "",
         "home_team": "Blue Star",
         "away_team": "Sea Hawks",
         "home_logo": "https://static.flashscore.com/res/image/data/GKpda4UH-AZfH09yf.png",
