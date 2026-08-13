@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-13 13:18:53",
+  "last_updated": "2026-08-13 18:52:20",
   "timezone": "WIB (UTC+7)",
-  "total_matches": 121,
+  "total_matches": 122,
   "popular_matches": 15,
   "data": {
     "highlight": [
@@ -213,6 +213,19 @@
       }
     ],
     "other": [
+      {
+        "sport": "Soccer",
+        "competition": "Africa Cup of Nations Women - Play-in",
+        "match_date": "2026-08-13",
+        "match_time": "23:00 WIB",
+        "match_datetime": "2026-08-13T23:00:00+07:00",
+        "home_team": "Ivory Coast W",
+        "away_team": "Ghana W",
+        "home_logo": "https://static.flashscore.com/res/image/data/r7eNW7jT-GG1dcIio.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/8vQj66S0-618DRca7.png",
+        "is_real": true,
+        "country": "AFRICA"
+      },
       {
         "sport": "Soccer",
         "competition": "Africa Cup of Nations Women - Play Offs",
@@ -672,47 +685,53 @@
         "sport": "Soccer",
         "competition": "Calcutta Premier Division",
         "match_date": "2026-08-13",
-        "match_time": "16:30 WIB",
-        "match_datetime": "2026-08-13T16:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Bidhannagar",
         "away_team": "Mohun Bagan U23",
         "home_logo": "https://static.flashscore.com/res/image/data/OjAyokjC-zJwHYXW6.png",
         "away_logo": "https://static.flashscore.com/res/image/data/YejiAfBN-8jbmlHLj.png",
         "is_real": true,
-        "country": "INDIA"
+        "country": "INDIA",
+        "score_home": "0",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
         "competition": "Calcutta Premier Division",
         "match_date": "2026-08-13",
-        "match_time": "16:30 WIB",
-        "match_datetime": "2026-08-13T16:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "BSS Sporting",
         "away_team": "Kidderpore",
         "home_logo": "https://static.flashscore.com/res/image/data/6H2BjI76-SdCNLmFA.png",
         "away_logo": "https://static.flashscore.com/res/image/data/pApG15Pq-dj9SMYiJ.png",
         "is_real": true,
-        "country": "INDIA"
+        "country": "INDIA",
+        "score_home": "5",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
         "competition": "Calcutta Premier Division",
         "match_date": "2026-08-13",
-        "match_time": "16:30 WIB",
-        "match_datetime": "2026-08-13T16:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "George Telegrapher",
         "away_team": "United Kolkata",
         "home_logo": "https://static.flashscore.com/res/image/data/GbpFD7BN-8xZvJcGr.png",
         "away_logo": "https://static.flashscore.com/res/image/data/SA3021WH-4nXv07J5.png",
         "is_real": true,
-        "country": "INDIA"
+        "country": "INDIA",
+        "score_home": "1",
+        "score_away": "7"
       },
       {
         "sport": "Soccer",
         "competition": "Durand Cup",
         "match_date": "2026-08-13",
-        "match_time": "17:30 WIB",
-        "match_datetime": "2026-08-13T17:30:00+07:00",
+        "match_time": "LIVE (65')",
+        "match_datetime": "",
         "home_team": "Bodoland FC",
         "away_team": "Karbi Anglong",
         "home_logo": "https://static.flashscore.com/res/image/data/Q7Qjek6k-Iy87ShL0.png",
@@ -723,9 +742,9 @@
       {
         "sport": "Soccer",
         "competition": "Durand Cup",
-        "match_date": "2026-08-13",
+        "match_date": "2026-08-14",
         "match_time": "17:30 WIB",
-        "match_datetime": "2026-08-13T17:30:00+07:00",
+        "match_datetime": "2026-08-14T17:30:00+07:00",
         "home_team": "Jamshedpur",
         "away_team": "Indian Air Force",
         "home_logo": "https://static.flashscore.com/res/image/data/ERZhcUS0-4xbRHIEb.png",
@@ -907,8 +926,8 @@
         "sport": "Soccer",
         "competition": "Nasjonal U19 CL - Play Offs",
         "match_date": "2026-08-13",
-        "match_time": "18:30 WIB",
-        "match_datetime": "2026-08-13T18:30:00+07:00",
+        "match_time": "LIVE (25')",
+        "match_datetime": "",
         "home_team": "Lyn U19",
         "away_team": "Viking U19",
         "home_logo": "https://static.flashscore.com/res/image/data/p0h9gN86-j7wPB18F.png",
@@ -1473,14 +1492,16 @@
         "sport": "Soccer",
         "competition": "Club Friendly",
         "match_date": "2026-08-13",
-        "match_time": "16:00 WIB",
-        "match_datetime": "2026-08-13T16:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Arconatese (Ita)",
         "away_team": "Leon (Ita)",
         "home_logo": "https://static.flashscore.com/res/image/data/SU3U1AjT-UZ1FJrcE.png",
         "away_logo": "https://static.flashscore.com/res/image/data/MP4viv96-KY9Z8Pee.png",
         "is_real": true,
-        "country": "WORLD"
+        "country": "WORLD",
+        "score_home": "2",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -1635,14 +1656,16 @@
         "sport": "Soccer",
         "competition": "Club Friendly Women",
         "match_date": "2026-08-13",
-        "match_time": "16:00 WIB",
-        "match_datetime": "2026-08-13T16:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Verona W (Ita)",
         "away_team": "Parma W (Ita)",
         "home_logo": "https://static.flashscore.com/res/image/data/EVZF5l6k-AXabXK5i.png",
         "away_logo": "https://static.flashscore.com/res/image/data/jcYx5VBN-hYMrKVhi.png",
         "is_real": true,
-        "country": "WORLD"
+        "country": "WORLD",
+        "score_home": "4",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
