@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-18 06:11:36",
+  "last_updated": "2026-08-18 12:32:55",
   "timezone": "WIB (UTC+7)",
-  "total_matches": 111,
+  "total_matches": 112,
   "popular_matches": 1,
   "data": {
     "highlight": [
@@ -84,27 +84,31 @@
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-08-18",
-        "match_time": "Half Time",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Velez Sarsfield",
         "away_team": "Defensa y Justicia",
         "home_logo": "https://static.flashscore.com/res/image/data/SzosWlSq-YF2zL4v9.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Cz28Nw8k-QcmznTSR.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-08-18",
-        "match_time": "07:30 WIB",
-        "match_datetime": "2026-08-18T07:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Gimnasia Mendoza",
         "away_team": "Talleres Cordoba",
         "home_logo": "https://static.flashscore.com/res/image/data/0t8y58VH-Uyu9KPIO.png",
         "away_logo": "https://static.flashscore.com/res/image/data/SrL2ZPUH-hUOWZpWa.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "3",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -183,14 +187,16 @@
         "sport": "Soccer",
         "competition": "Serie A Betano",
         "match_date": "2026-08-18",
-        "match_time": "LIVE (12')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Internacional",
         "away_team": "Remo",
         "home_logo": "https://static.flashscore.com/res/image/data/p2TzSgBN-ALgHCh57.png",
         "away_logo": "https://static.flashscore.com/res/image/data/GEFVWo96-vsDPUWUH.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -226,14 +232,16 @@
         "sport": "Soccer",
         "competition": "Liga de Primera",
         "match_date": "2026-08-18",
-        "match_time": "07:30 WIB",
-        "match_datetime": "2026-08-18T07:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Palestino",
         "away_team": "Huachipato",
         "home_logo": "https://static.flashscore.com/res/image/data/WKcicC96-6o82IhbS.png",
         "away_logo": "https://static.flashscore.com/res/image/data/nH93BOAN-xIMey4eD.png",
         "is_real": true,
-        "country": "CHILE"
+        "country": "CHILE",
+        "score_home": "5",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -278,14 +286,16 @@
         "sport": "Soccer",
         "competition": "Primera Division - Apertura COSTA",
         "match_date": "2026-08-18",
-        "match_time": "09:00 WIB",
-        "match_datetime": "2026-08-18T09:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Sporting FC",
         "away_team": "Escorpiones",
         "home_logo": "https://static.flashscore.com/res/image/data/z7RWe25k-2w5L1UBi.png",
         "away_logo": "https://static.flashscore.com/res/image/data/jsEbcYjC-dCzfrT6j.png",
         "is_real": true,
-        "country": "RICA"
+        "country": "RICA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -306,14 +316,16 @@
         "sport": "Soccer",
         "competition": "Liga Pro",
         "match_date": "2026-08-18",
-        "match_time": "07:00 WIB",
-        "match_datetime": "2026-08-18T07:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Macara",
         "away_team": "U. Catolica",
         "home_logo": "https://static.flashscore.com/res/image/data/b1brVQjT-0C12xtlP.png",
         "away_logo": "https://static.flashscore.com/res/image/data/MgHsGYU0-Kt2BHCfq.png",
         "is_real": true,
-        "country": "ECUADOR"
+        "country": "ECUADOR",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -810,66 +822,76 @@
         "sport": "Soccer",
         "competition": "Liga MX - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-08-18T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Necaxa",
         "away_team": "Club Leon",
         "home_logo": "https://static.flashscore.com/res/image/data/ARWa7nVH-8rY7at7H.png",
         "away_logo": "https://static.flashscore.com/res/image/data/UuRwr5AN-bo0O7baB.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
         "competition": "Liga MX - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "10:06 WIB",
-        "match_datetime": "2026-08-18T10:06:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Pachuca",
         "away_team": "Puebla",
         "home_logo": "https://static.flashscore.com/res/image/data/UcvERb5k-zFZbB1JF.png",
         "away_logo": "https://static.flashscore.com/res/image/data/dlj3qbQq-W6vdbCVa.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "2",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "LIVE (12')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Club Leon W",
         "away_team": "Queretaro W",
         "home_logo": "https://static.flashscore.com/res/image/data/6Zgy076k-xGqq07c2.png",
         "away_logo": "https://static.flashscore.com/res/image/data/EyeytwU0-0rbG5js3.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "0",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "07:00 WIB",
-        "match_datetime": "2026-08-18T07:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Toluca W",
         "away_team": "Atlas W",
         "home_logo": "https://static.flashscore.com/res/image/data/dxtlTugT-vyGZIh6S.png",
         "away_logo": "https://static.flashscore.com/res/image/data/rLt1fBVH-QFlMdJyS.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "08:06 WIB",
-        "match_datetime": "2026-08-18T08:06:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Santos Laguna W",
         "away_team": "Monterrey W",
         "home_logo": "https://static.flashscore.com/res/image/data/Q13jzBle-fooLkWml.png",
         "away_logo": "https://static.flashscore.com/res/image/data/tAF8xylC-YFlufF9q.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "4"
       },
       {
         "sport": "Soccer",
@@ -961,14 +983,16 @@
         "sport": "Soccer",
         "competition": "LPF - Apertura",
         "match_date": "2026-08-18",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-08-18T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Tauro",
         "away_team": "Arabe Unido",
         "home_logo": "https://static.flashscore.com/res/image/data/S4FPavle-vTLj5hDm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/pGIeFYCN-IJKf4CSg.png",
         "is_real": true,
-        "country": "PANAMA"
+        "country": "PANAMA",
+        "score_home": "0",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -1509,6 +1533,19 @@
         "away_team": "Bayern Munich (Ger)",
         "home_logo": "https://static.flashscore.com/res/image/data/UH4XQKBN-bNiAN2lt.png",
         "away_logo": "https://static.flashscore.com/res/image/data/lWGBVoA6-SvLFaVNH.png",
+        "is_real": true,
+        "country": "WORLD"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "Friendly International Women",
+        "match_date": "2026-08-18",
+        "match_time": "17:00 WIB",
+        "match_datetime": "2026-08-18T17:00:00+07:00",
+        "home_team": "Armenia U19 W",
+        "away_team": "Georgia U19 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/M3BrUS96-p4FqVx56.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/6LKhQcPq-ITysswaf.png",
         "is_real": true,
         "country": "WORLD"
       }
