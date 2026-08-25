@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 06:12:21",
+  "last_updated": "2026-08-25 12:34:22",
   "timezone": "WIB (UTC+7)",
   "total_matches": 122,
   "popular_matches": 7,
@@ -52,27 +52,31 @@
         "sport": "Soccer",
         "competition": "Serie B",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (43')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Athletic Club",
         "away_team": "Novorizontino",
         "home_logo": "https://static.flashscore.com/res/image/data/WWeFYMPq-AmIcMWyl.png",
         "away_logo": "https://static.flashscore.com/res/image/data/40q3okVH-vFrLaFel.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "1",
+        "score_away": "4"
       },
       {
         "sport": "Soccer",
         "competition": "Serie B",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (43')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Sport Recife",
         "away_team": "America MG",
         "home_logo": "https://static.flashscore.com/res/image/data/WrU0J0Qq-fezSJdFa.png",
         "away_logo": "https://static.flashscore.com/res/image/data/K2MlyGoe-nHqWQgSo.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -138,40 +142,46 @@
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (52')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Tigre",
         "away_team": "Central Cordoba",
         "home_logo": "https://static.flashscore.com/res/image/data/EgYDLGoe-ENHpchZ2.png",
         "away_logo": "https://static.flashscore.com/res/image/data/0hgWrqXH-E7RqoQaq.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-08-25",
-        "match_time": "07:15 WIB",
-        "match_datetime": "2026-08-25T07:15:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Lanus",
         "away_team": "Argentinos Jrs",
         "home_logo": "https://static.flashscore.com/res/image/data/I7GXcZiT-rRPTjfbN.png",
         "away_logo": "https://static.flashscore.com/res/image/data/p0EKsd7k-CUuaFAMD.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-08-25",
-        "match_time": "07:15 WIB",
-        "match_datetime": "2026-08-25T07:15:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Talleres Cordoba",
         "away_team": "Rosario Central",
         "home_logo": "https://static.flashscore.com/res/image/data/SrL2ZPUH-hUOWZpWa.png",
         "away_logo": "https://static.flashscore.com/res/image/data/KSbaRoDN-vuxu02Jt.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "2",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -192,14 +202,16 @@
         "sport": "Soccer",
         "competition": "Primera Nacional",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (9')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Ferro",
         "away_team": "All Boys",
         "home_logo": "https://static.flashscore.com/res/image/data/KvRB6VQq-hUQs6NC1.png",
         "away_logo": "https://static.flashscore.com/res/image/data/EDM4G0jT-OzQboFJC.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -246,14 +258,16 @@
         "sport": "Soccer",
         "competition": "Serie A Betano",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (11')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Botafogo RJ",
         "away_team": "Athletico-PR",
         "home_logo": "https://static.flashscore.com/res/image/data/YyEcuJVH-ldMpXQG1.png",
         "away_logo": "https://static.flashscore.com/res/image/data/INluPVA6-QaMaOfUh.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "2",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
@@ -274,14 +288,16 @@
         "sport": "Soccer",
         "competition": "Liga de Primera",
         "match_date": "2026-08-25",
-        "match_time": "06:30 WIB",
-        "match_datetime": "2026-08-25T06:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Everton",
         "away_team": "U. De Concepcion",
         "home_logo": "https://static.flashscore.com/res/image/data/CK0zQ5A6-futBA1p8.png",
         "away_logo": "https://static.flashscore.com/res/image/data/SEJkKf6k-Eq74Jcjl.png",
         "is_real": true,
-        "country": "CHILE"
+        "country": "CHILE",
+        "score_home": "3",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -601,14 +617,16 @@
         "sport": "Soccer",
         "competition": "Liga Pro",
         "match_date": "2026-08-25",
-        "match_time": "07:00 WIB",
-        "match_datetime": "2026-08-25T07:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Libertad",
         "away_team": "Macara",
         "home_logo": "https://static.flashscore.com/res/image/data/faMhEniT-ERBXCrln.png",
         "away_logo": "https://static.flashscore.com/res/image/data/b1brVQjT-0C12xtlP.png",
         "is_real": true,
-        "country": "ECUADOR"
+        "country": "ECUADOR",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -922,27 +940,31 @@
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (67')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Atlante W",
         "away_team": "Toluca W",
         "home_logo": "https://static.flashscore.com/res/image/data/rPb96oDN-U92rK8DO.png",
         "away_logo": "https://static.flashscore.com/res/image/data/dxtlTugT-vyGZIh6S.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-08-25",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-08-25T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Atlas W",
         "away_team": "Club Tijuana W",
         "home_logo": "https://static.flashscore.com/res/image/data/rLt1fBVH-QFlMdJyS.png",
         "away_logo": "https://static.flashscore.com/res/image/data/td4KmbkC-vTwfVAOb.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1019,14 +1041,16 @@
         "sport": "Soccer",
         "competition": "LPF - Apertura",
         "match_date": "2026-08-25",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-08-25T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Alianza",
         "away_team": "Tauro",
         "home_logo": "https://static.flashscore.com/res/image/data/4bfOPzRq-r3y5Ek2l.png",
         "away_logo": "https://static.flashscore.com/res/image/data/S4FPavle-vTLj5hDm.png",
         "is_real": true,
-        "country": "PANAMA"
+        "country": "PANAMA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1047,14 +1071,16 @@
         "sport": "Soccer",
         "competition": "Copa de Primera - Clausura",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (87')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Libertad Asuncion",
         "away_team": "San Lorenzo",
         "home_logo": "https://static.flashscore.com/res/image/data/r7u0l486-UwvYANk9.png",
         "away_logo": "https://static.flashscore.com/res/image/data/UkkDCRPq-jwW2wgsf.png",
         "is_real": true,
-        "country": "PARAGUAY"
+        "country": "PARAGUAY",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1510,14 +1536,16 @@
         "sport": "Soccer",
         "competition": "USL Championship",
         "match_date": "2026-08-25",
-        "match_time": "LIVE (5')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Charleston",
         "away_team": "Miami FC",
         "home_logo": "https://static.flashscore.com/res/image/data/650h9lDN-xIOhFH4B.png",
         "away_logo": "https://static.flashscore.com/res/image/data/KWTopnle-vBtgx35m.png",
         "is_real": true,
-        "country": "USA"
+        "country": "USA",
+        "score_home": "5",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
