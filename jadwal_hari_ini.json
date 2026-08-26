@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-26 06:15:01",
+  "last_updated": "2026-08-26 12:37:15",
   "timezone": "WIB (UTC+7)",
-  "total_matches": 224,
+  "total_matches": 225,
   "popular_matches": 15,
   "data": {
     "highlight": [
@@ -50,40 +50,46 @@
         "sport": "Soccer",
         "competition": "Copa Libertadores - Play Offs SOUTH",
         "match_date": "2026-08-26",
-        "match_time": "07:30 WIB",
-        "match_datetime": "2026-08-26T07:30:00+07:00",
-        "home_team": "Ind. del Valle (Ecu)",
+        "match_time": "FT",
+        "match_datetime": "",
+        "home_team": "Ind. del Valle (Ecu)Advancing to next round: Ind. del Valle (Ecu)",
         "away_team": "Deportes Tolima (Col)",
         "home_logo": "https://static.flashscore.com/res/image/data/4rVUkugT-OnCKiY2r.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Ecz8EXVH-IVYXEpED.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "3",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Serie B",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (45+1')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Atletico GO",
         "away_team": "Botafogo SP",
         "home_logo": "https://static.flashscore.com/res/image/data/f7S2jqjC-2eGLPjs8.png",
         "away_logo": "https://static.flashscore.com/res/image/data/fy7q1GPq-dA1p8k46.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "Serie B",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (43')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Juventude",
         "away_team": "CRB",
         "home_logo": "https://static.flashscore.com/res/image/data/GtpcHiiT-v5wBaFPD.png",
         "away_logo": "https://static.flashscore.com/res/image/data/8biwxljT-6oItt2Br.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -236,14 +242,16 @@
         "sport": "Soccer",
         "competition": "Primera Nacional",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (50')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Deportivo Madryn",
         "away_team": "Godoy Cruz",
         "home_logo": "https://static.flashscore.com/res/image/data/E3OAK2me-Uyu9KPIO.png",
         "away_logo": "https://static.flashscore.com/res/image/data/SxPJGtiC-IJKf4CSg.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -290,27 +298,31 @@
         "sport": "Soccer",
         "competition": "Division Profesional",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (16')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Universitario de Vinto",
         "away_team": "Nacional Potosi",
         "home_logo": "https://static.flashscore.com/res/image/data/8rhZC0jC-OAKJ6fWq.png",
         "away_logo": "https://static.flashscore.com/res/image/data/xAGjyC96-juTs9wjf.png",
         "is_real": true,
-        "country": "BOLIVIA"
+        "country": "BOLIVIA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "Copa Betano do Brasil",
         "match_date": "2026-08-26",
-        "match_time": "07:00 WIB",
-        "match_datetime": "2026-08-26T07:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Cruzeiro",
         "away_team": "Atletico-MG",
         "home_logo": "https://static.flashscore.com/res/image/data/dzBBasiT-SjJmyx86.png",
         "away_logo": "https://static.flashscore.com/res/image/data/h8ZzOL5k-UHhQ6Y1N.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -329,14 +341,16 @@
         "sport": "Soccer",
         "competition": "Primera A - Clausura",
         "match_date": "2026-08-26",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-08-26T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Cucuta",
         "away_team": "Alianza",
         "home_logo": "https://static.flashscore.com/res/image/data/CIXgiT86-hCmseTFa.png",
         "away_logo": "https://static.flashscore.com/res/image/data/0Cg5eagT-jqTIQW5H.png",
         "is_real": true,
-        "country": "COLOMBIA"
+        "country": "COLOMBIA",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -868,14 +882,16 @@
         "sport": "Soccer",
         "competition": "LDF DOMINICAN",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (15')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Cibao",
         "away_team": "Delfines Del Este",
         "home_logo": "https://static.flashscore.com/res/image/data/lndkb7oe-hvlWeuiI.png",
         "away_logo": "https://static.flashscore.com/res/image/data/by5y4oiT-zoQ0N7Vn.png",
         "is_real": true,
-        "country": "REPUBLIC"
+        "country": "REPUBLIC",
+        "score_home": "0",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -1870,53 +1886,61 @@
         "sport": "Soccer",
         "competition": "CONCACAF Central American Cup NORTH & CENTRAL",
         "match_date": "2026-08-26",
-        "match_time": "09:30 WIB",
-        "match_datetime": "2026-08-26T09:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Cartagines (Cos)",
         "away_team": "FAS (Sal)",
         "home_logo": "https://static.flashscore.com/res/image/data/4Whd97T0-S0r0ZEPB.png",
         "away_logo": "https://static.flashscore.com/res/image/data/8GOI43Qq-IJKf4CSg.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "CONCACAF Central American Cup NORTH & CENTRAL",
         "match_date": "2026-08-26",
-        "match_time": "09:30 WIB",
-        "match_datetime": "2026-08-26T09:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Municipal (Gtm)",
         "away_team": "Motagua (Hon)",
         "home_logo": "https://static.flashscore.com/res/image/data/tdFtpxhT-vTLj5hDm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/nRETA7T0-dtCxYreO.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Leagues Cup - Play Offs NORTH & CENTRAL",
         "match_date": "2026-08-26",
-        "match_time": "07:30 WIB",
-        "match_datetime": "2026-08-26T07:30:00+07:00",
-        "home_team": "Monterrey",
+        "match_time": "FT",
+        "match_datetime": "",
+        "home_team": "MonterreyAdvancing to next round: Monterrey",
         "away_team": "Chicago Fire",
         "home_logo": "https://static.flashscore.com/res/image/data/Gnf7VRQq-MVPKYVvK.png",
         "away_logo": "https://static.flashscore.com/res/image/data/YHLXh45k-0lw00xPr.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Leagues Cup - Play Offs NORTH & CENTRAL",
         "match_date": "2026-08-26",
-        "match_time": "09:30 WIB",
-        "match_datetime": "2026-08-26T09:30:00+07:00",
-        "home_team": "Club Leon",
+        "match_time": "FT",
+        "match_datetime": "",
+        "home_team": "Club LeonAdvancing to next round: Club Leon",
         "away_team": "Real Salt Lake",
         "home_logo": "https://static.flashscore.com/res/image/data/UuRwr5AN-bo0O7baB.png",
         "away_logo": "https://static.flashscore.com/res/image/data/4EKWEn8k-vgy39tSd.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1987,14 +2011,16 @@
         "sport": "Soccer",
         "competition": "Copa de Primera - Clausura",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (87')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "2 de Mayo",
         "away_team": "Guarani",
         "home_logo": "https://static.flashscore.com/res/image/data/z5AitAT0-0fWrlsjA.png",
         "away_logo": "https://static.flashscore.com/res/image/data/OfMzf5kC-G0qum5Ko.png",
         "is_real": true,
-        "country": "PARAGUAY"
+        "country": "PARAGUAY",
+        "score_home": "0",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -2013,14 +2039,16 @@
         "sport": "Soccer",
         "competition": "Copa Paraguay",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (88')",
+        "match_time": "FT",
         "match_datetime": "",
-        "home_team": "Sol de America",
+        "home_team": "Sol de AmericaAdvancing to next round: Sol de America",
         "away_team": "Sportivo Trinidense",
         "home_logo": "https://static.flashscore.com/res/image/data/prks6UhT-UJLaZhBP.png",
         "away_logo": "https://static.flashscore.com/res/image/data/hY7XRwU0-hpyVjm6H.png",
         "is_real": true,
-        "country": "PARAGUAY"
+        "country": "PARAGUAY",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -2810,14 +2838,16 @@
         "sport": "Soccer",
         "competition": "Copa Uruguay",
         "match_date": "2026-08-26",
-        "match_time": "LIVE (90+7')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Defensor Sp.",
         "away_team": "Rentistas",
         "home_logo": "https://static.flashscore.com/res/image/data/jJgLCylC-vZdejfYC.png",
         "away_logo": "https://static.flashscore.com/res/image/data/2gevhK8k-QgsW6KS9.png",
         "is_real": true,
-        "country": "URUGUAY"
+        "country": "URUGUAY",
+        "score_home": "0",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -3006,6 +3036,19 @@
         "away_team": "Tunisia U21",
         "home_logo": "https://static.flashscore.com/res/image/data/6s2ecBQq-rN7ddF35.png",
         "away_logo": "https://static.flashscore.com/res/image/data/beVAX486-K6VrDp5l.png",
+        "is_real": true,
+        "country": "WORLD"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "Friendly International Women",
+        "match_date": "2026-08-26",
+        "match_time": "16:00 WIB",
+        "match_datetime": "2026-08-26T16:00:00+07:00",
+        "home_team": "Italy U20 W",
+        "away_team": "Portugal U20 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/dndD0n86-vRtmaklj.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/G4qLiSRq-Iy4CNX9E.png",
         "is_real": true,
         "country": "WORLD"
       }
