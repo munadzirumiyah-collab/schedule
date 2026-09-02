@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 07:38:08",
+  "last_updated": "2026-09-02 16:22:01",
   "timezone": "WIB (UTC+7)",
   "total_matches": 214,
   "popular_matches": 14,
@@ -22,7 +22,7 @@
       },
       {
         "sport": "Soccer",
-        "competition": "Champions League Women - Qualification - Third stage",
+        "competition": "UEFA Champions League Women - Qualification - Third stage",
         "match_date": "2026-09-02",
         "match_time": "23:30 WIB",
         "match_datetime": "2026-09-02T23:30:00+07:00",
@@ -35,7 +35,7 @@
       },
       {
         "sport": "Soccer",
-        "competition": "Champions League Women - Qualification - Third stage",
+        "competition": "UEFA Champions League Women - Qualification - Third stage",
         "match_date": "2026-09-02",
         "match_time": "23:30 WIB",
         "match_datetime": "2026-09-02T23:30:00+07:00",
@@ -48,7 +48,7 @@
       },
       {
         "sport": "Soccer",
-        "competition": "Champions League Women - Qualification - Third stage",
+        "competition": "UEFA Champions League Women - Qualification - Third stage",
         "match_date": "2026-09-02",
         "match_time": "23:45 WIB",
         "match_datetime": "2026-09-02T23:45:00+07:00",
@@ -63,8 +63,8 @@
         "sport": "Soccer",
         "competition": "UEFA Europa Cup Women - Qualification",
         "match_date": "2026-09-02",
-        "match_time": "16:00 WIB",
-        "match_datetime": "2026-09-02T16:00:00+07:00",
+        "match_time": "LIVE (22')",
+        "match_datetime": "",
         "home_team": "Gintra W",
         "away_team": "Sturm Graz W",
         "home_logo": "https://static.flashscore.com/res/image/data/IHoKzClC-8ArdW1BP.png",
@@ -236,14 +236,16 @@
         "sport": "Soccer",
         "competition": "OFC Championship U19 AUSTRALIA &",
         "match_date": "2026-09-02",
-        "match_time": "09:00 WIB",
-        "match_datetime": "2026-09-02T09:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "New Zealand U19",
         "away_team": "Tahiti U19",
         "home_logo": "https://static.flashscore.com/res/image/data/KxuP79VH-Crka1xm9.png",
         "away_logo": "https://static.flashscore.com/res/image/data/GW5kob7k-CSvd6tfO.png",
         "is_real": true,
-        "country": "OCEANIA"
+        "country": "OCEANIA",
+        "score_home": "8",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -316,14 +318,16 @@
         "sport": "Soccer",
         "competition": "Copa Pacena",
         "match_date": "2026-09-02",
-        "match_time": "LIVE (80')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Universitario de Vinto",
         "away_team": "Aurora",
         "home_logo": "https://static.flashscore.com/res/image/data/8rhZC0jC-OAKJ6fWq.png",
         "away_logo": "https://static.flashscore.com/res/image/data/UZgMUF7k-QBz20jrI.png",
         "is_real": true,
-        "country": "BOLIVIA"
+        "country": "BOLIVIA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -370,14 +374,16 @@
         "sport": "Soccer",
         "competition": "Copa Betano do Brasil",
         "match_date": "2026-09-02",
-        "match_time": "LIVE (34')",
+        "match_time": "FT",
         "match_datetime": "",
-        "home_team": "Atletico-MG",
+        "home_team": "Atletico-MGAdvancing to next round: Atletico-MG",
         "away_team": "Cruzeiro",
         "home_logo": "https://static.flashscore.com/res/image/data/h8ZzOL5k-UHhQ6Y1N.png",
         "away_logo": "https://static.flashscore.com/res/image/data/dzBBasiT-SjJmyx86.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -426,14 +432,16 @@
         "sport": "Soccer",
         "competition": "Primera A - Clausura",
         "match_date": "2026-09-02",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-09-02T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Fortaleza",
         "away_team": "Once Caldas",
         "home_logo": "https://static.flashscore.com/res/image/data/6qGiPaSq-lrqyzouB.png",
         "away_logo": "https://static.flashscore.com/res/image/data/C0qt1olC-bsEYFgtQ.png",
         "is_real": true,
-        "country": "COLOMBIA"
+        "country": "COLOMBIA",
+        "score_home": "1",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -482,14 +490,16 @@
         "sport": "Soccer",
         "competition": "Liga Pro",
         "match_date": "2026-09-02",
-        "match_time": "LIVE (38')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "LDU Quito",
         "away_team": "Mushuc Runa",
         "home_logo": "https://static.flashscore.com/res/image/data/WKZqhSPq-dldy8uVh.png",
         "away_logo": "https://static.flashscore.com/res/image/data/bRdi82jT-CI3jiS2E.png",
         "is_real": true,
-        "country": "ECUADOR"
+        "country": "ECUADOR",
+        "score_home": "0",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -954,8 +964,8 @@
         "sport": "Soccer",
         "competition": "UEFA Regions' Cup - Qualification",
         "match_date": "2026-09-02",
-        "match_time": "15:00 WIB",
-        "match_datetime": "2026-09-02T15:00:00+07:00",
+        "match_time": "LIVE (65')",
+        "match_datetime": "",
         "home_team": "Hapoel Beit Shean Mesilot (Am)",
         "away_team": "Pest Region (Am)",
         "home_logo": "",
@@ -1818,14 +1828,16 @@
         "sport": "Soccer",
         "competition": "CONCACAF Caribbean Cup NORTH & CENTRAL",
         "match_date": "2026-09-02",
-        "match_time": "LIVE (74')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Defence Force (Tri)",
         "away_team": "Sando (Tri)",
         "home_logo": "https://static.flashscore.com/res/image/data/AsPGbmSq-SQkjVH3I.png",
         "away_logo": "https://static.flashscore.com/res/image/data/GIEBOjBN-Gf6sycWq.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "0",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -2886,14 +2898,16 @@
         "sport": "Soccer",
         "competition": "Copa Uruguay",
         "match_date": "2026-09-02",
-        "match_time": "LIVE (63')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Montevideo City",
         "away_team": "Danubio",
         "home_logo": "https://static.flashscore.com/res/image/data/YD3L0x6k-hOX9sHW0.png",
         "away_logo": "https://static.flashscore.com/res/image/data/EmZBa3le-vaUkIxVj.png",
         "is_real": true,
-        "country": "URUGUAY"
+        "country": "URUGUAY",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
