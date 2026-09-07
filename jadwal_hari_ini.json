@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07 07:26:01",
+  "last_updated": "2026-09-07 17:00:41",
   "timezone": "WIB (UTC+7)",
-  "total_matches": 196,
+  "total_matches": 197,
   "popular_matches": 12,
   "data": {
     "highlight": [
@@ -47,6 +47,58 @@
         "away_logo": "https://static.flashscore.com/res/image/data/fPabg0DN-McvX4bye.png",
         "is_real": true,
         "country": "ITALY"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "World Cup Women U20",
+        "match_date": "2026-09-07",
+        "match_time": "20:00 WIB",
+        "match_datetime": "2026-09-07T20:00:00+07:00",
+        "home_team": "New Caledonia U20 W",
+        "away_team": "China U20 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/MFQnBeQq-W201HP40.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/zHA3VJCN-SMRmbjiq.png",
+        "is_real": true,
+        "country": "WORLD"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "World Cup Women U20",
+        "match_date": "2026-09-07",
+        "match_time": "20:00 WIB",
+        "match_datetime": "2026-09-07T20:00:00+07:00",
+        "home_team": "North Korea U20 W",
+        "away_team": "Portugal U20 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/WboDQe7k-YHLadYFI.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/G4qLiSRq-Iy4CNX9E.png",
+        "is_real": true,
+        "country": "WORLD"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "World Cup Women U20",
+        "match_date": "2026-09-07",
+        "match_time": "23:00 WIB",
+        "match_datetime": "2026-09-07T23:00:00+07:00",
+        "home_team": "Costa Rica U20 W",
+        "away_team": "Colombia U20 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/ptX7GVBN-lhYGvjx3.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/W6v7dTS0-C6kVdO5F.png",
+        "is_real": true,
+        "country": "WORLD"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "World Cup Women U20",
+        "match_date": "2026-09-07",
+        "match_time": "23:00 WIB",
+        "match_datetime": "2026-09-07T23:00:00+07:00",
+        "home_team": "Spain U20 W",
+        "away_team": "Nigeria U20 W",
+        "home_logo": "https://static.flashscore.com/res/image/data/4AQveeDN-MayHMmvd.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/69fnh5lC-8ICaYfyc.png",
+        "is_real": true,
+        "country": "WORLD"
       },
       {
         "sport": "Soccer",
@@ -122,58 +174,6 @@
         "country": "TURKEY",
         "score_home": "5",
         "score_away": "0"
-      },
-      {
-        "sport": "Soccer",
-        "competition": "World Cup Women U20",
-        "match_date": "2026-09-07",
-        "match_time": "20:00 WIB",
-        "match_datetime": "2026-09-07T20:00:00+07:00",
-        "home_team": "New Caledonia U20 W",
-        "away_team": "China U20 W",
-        "home_logo": "https://static.flashscore.com/res/image/data/MFQnBeQq-W201HP40.png",
-        "away_logo": "https://static.flashscore.com/res/image/data/zHA3VJCN-SMRmbjiq.png",
-        "is_real": true,
-        "country": "WORLD"
-      },
-      {
-        "sport": "Soccer",
-        "competition": "World Cup Women U20",
-        "match_date": "2026-09-07",
-        "match_time": "20:00 WIB",
-        "match_datetime": "2026-09-07T20:00:00+07:00",
-        "home_team": "North Korea U20 W",
-        "away_team": "Portugal U20 W",
-        "home_logo": "https://static.flashscore.com/res/image/data/WboDQe7k-YHLadYFI.png",
-        "away_logo": "https://static.flashscore.com/res/image/data/G4qLiSRq-Iy4CNX9E.png",
-        "is_real": true,
-        "country": "WORLD"
-      },
-      {
-        "sport": "Soccer",
-        "competition": "World Cup Women U20",
-        "match_date": "2026-09-07",
-        "match_time": "23:00 WIB",
-        "match_datetime": "2026-09-07T23:00:00+07:00",
-        "home_team": "Costa Rica U20 W",
-        "away_team": "Colombia U20 W",
-        "home_logo": "https://static.flashscore.com/res/image/data/ptX7GVBN-lhYGvjx3.png",
-        "away_logo": "https://static.flashscore.com/res/image/data/W6v7dTS0-C6kVdO5F.png",
-        "is_real": true,
-        "country": "WORLD"
-      },
-      {
-        "sport": "Soccer",
-        "competition": "World Cup Women U20",
-        "match_date": "2026-09-07",
-        "match_time": "23:00 WIB",
-        "match_datetime": "2026-09-07T23:00:00+07:00",
-        "home_team": "Spain U20 W",
-        "away_team": "Nigeria U20 W",
-        "home_logo": "https://static.flashscore.com/res/image/data/4AQveeDN-MayHMmvd.png",
-        "away_logo": "https://static.flashscore.com/res/image/data/69fnh5lC-8ICaYfyc.png",
-        "is_real": true,
-        "country": "WORLD"
       }
     ],
     "other": [
@@ -286,14 +286,16 @@
         "sport": "Soccer",
         "competition": "Liga Profesional - Clausura",
         "match_date": "2026-09-07",
-        "match_time": "07:30 WIB",
-        "match_datetime": "2026-09-07T07:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Racing Club",
         "away_team": "Atl. Tucuman",
         "home_logo": "https://static.flashscore.com/res/image/data/Wp6MmpQq-OCiVKiPK.png",
         "away_logo": "https://static.flashscore.com/res/image/data/I11ACdhT-QitRwNMT.png",
         "is_real": true,
-        "country": "ARGENTINA"
+        "country": "ARGENTINA",
+        "score_home": "1",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -674,40 +676,46 @@
         "sport": "Soccer",
         "competition": "OFC Championship U19 AUSTRALIA &",
         "match_date": "2026-09-07",
-        "match_time": "09:00 WIB",
-        "match_datetime": "2026-09-07T09:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Samoa U19",
         "away_team": "Solomon Islands U19",
         "home_logo": "https://static.flashscore.com/res/image/data/UNXMV3kC-S2FePRFH.png",
         "away_logo": "https://static.flashscore.com/res/image/data/2FyCUECN-6FyAfRI7.png",
         "is_real": true,
-        "country": "OCEANIA"
+        "country": "OCEANIA",
+        "score_home": "0",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
         "competition": "OFC Championship U16 Women AUSTRALIA &",
-        "match_date": "2026-09-08",
-        "match_time": "12:00 WIB",
-        "match_datetime": "2026-09-08T12:00:00+07:00",
+        "match_date": "2026-09-07",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "New Caledonia U16 W",
         "away_team": "Papua New Guinea U16 W",
         "home_logo": "https://static.flashscore.com/res/image/data/MF5A30Qq-2Rlzdxhm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/hKybsrCN-jR7xMmth.png",
         "is_real": true,
-        "country": "OCEANIA"
+        "country": "OCEANIA",
+        "score_home": "5",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
         "competition": "OFC Championship U16 Women AUSTRALIA &",
-        "match_date": "2026-09-08",
-        "match_time": "15:00 WIB",
-        "match_datetime": "2026-09-08T15:00:00+07:00",
+        "match_date": "2026-09-07",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Samoa U16 W",
         "away_team": "Tonga U16 W",
         "home_logo": "https://static.flashscore.com/res/image/data/MHnsl686-2Rlzdxhm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/4nkjJgDN-2Rlzdxhm.png",
         "is_real": true,
-        "country": "OCEANIA"
+        "country": "OCEANIA",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -814,14 +822,16 @@
         "sport": "Soccer",
         "competition": "Division Profesional",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (24')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Nacional Potosi",
         "away_team": "Blooming",
         "home_logo": "https://static.flashscore.com/res/image/data/xAGjyC96-juTs9wjf.png",
         "away_logo": "https://static.flashscore.com/res/image/data/tplAvBme-tA3m0WA0.png",
         "is_real": true,
-        "country": "BOLIVIA"
+        "country": "BOLIVIA",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -902,14 +912,16 @@
         "sport": "Soccer",
         "competition": "Serie A Betano",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (90+2')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Corinthians",
         "away_team": "Chapecoense-SC",
         "home_logo": "https://static.flashscore.com/res/image/data/WCPVtuUH-6cpWH3kh.png",
         "away_logo": "https://static.flashscore.com/res/image/data/WtA85One-CYex0lQl.png",
         "is_real": true,
-        "country": "BRAZIL"
+        "country": "BRAZIL",
+        "score_home": "1",
+        "score_away": "2"
       },
       {
         "sport": "Soccer",
@@ -1005,14 +1017,16 @@
         "sport": "Soccer",
         "competition": "Liga de Primera",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (90+3')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Palestino",
         "away_team": "U. De Concepcion",
         "home_logo": "https://static.flashscore.com/res/image/data/WKcicC96-6o82IhbS.png",
         "away_logo": "https://static.flashscore.com/res/image/data/SEJkKf6k-Eq74Jcjl.png",
         "is_real": true,
-        "country": "CHILE"
+        "country": "CHILE",
+        "score_home": "2",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -1063,14 +1077,16 @@
         "sport": "Soccer",
         "competition": "Primera A - Clausura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (58')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Pereira",
         "away_team": "Millonarios",
         "home_logo": "https://static.flashscore.com/res/image/data/vTF4Iv6k-rysGeGXN.png",
         "away_logo": "https://static.flashscore.com/res/image/data/I7bqaK6k-6kduDy6P.png",
         "is_real": true,
-        "country": "COLOMBIA"
+        "country": "COLOMBIA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -1091,14 +1107,16 @@
         "sport": "Soccer",
         "competition": "Primera Division - Apertura COSTA",
         "match_date": "2026-09-07",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-09-07T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "San Carlos",
         "away_team": "Sporting FC",
         "home_logo": "https://static.flashscore.com/res/image/data/juvJFEQq-6XjLWQsI.png",
         "away_logo": "https://static.flashscore.com/res/image/data/z7RWe25k-2w5L1UBi.png",
         "is_real": true,
-        "country": "RICA"
+        "country": "RICA",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1177,27 +1195,31 @@
         "sport": "Soccer",
         "competition": "Liga Pro",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (25')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Aucas",
         "away_team": "Barcelona SC",
         "home_logo": "https://static.flashscore.com/res/image/data/lI9aL8WH-WKyyYBU8.png",
         "away_logo": "https://static.flashscore.com/res/image/data/4U7abDU0-WErjuywa.png",
         "is_real": true,
-        "country": "ECUADOR"
+        "country": "ECUADOR",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Pro",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (25')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Dep. Cuenca",
         "away_team": "Libertad",
         "home_logo": "https://static.flashscore.com/res/image/data/xrM80Doe-UcMAfaUd.png",
         "away_logo": "https://static.flashscore.com/res/image/data/faMhEniT-ERBXCrln.png",
         "is_real": true,
-        "country": "ECUADOR"
+        "country": "ECUADOR",
+        "score_home": "0",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -1259,14 +1281,16 @@
         "sport": "Soccer",
         "competition": "Primera Division - Apertura EL",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (45+6')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Luis Angel Firpo",
-        "away_team": "Inter Santa Tecla",
+        "away_team": "Inter Santa Tecla2",
         "home_logo": "https://static.flashscore.com/res/image/data/xAZaaaQq-UJJujjvl.png",
         "away_logo": "https://static.flashscore.com/res/image/data/8pVblS86-bTElU5x4.png",
         "is_real": true,
-        "country": "SALVADOR"
+        "country": "SALVADOR",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1451,40 +1475,46 @@
         "sport": "Soccer",
         "competition": "Liga Nacional - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (62')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Municipal",
         "away_team": "Deportivo San Pedro",
         "home_logo": "https://static.flashscore.com/res/image/data/tdFtpxhT-vTLj5hDm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Iu8GkC96-0Goch45S.png",
         "is_real": true,
-        "country": "GUATEMALA"
+        "country": "GUATEMALA",
+        "score_home": "0",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Nacional - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (52')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Real Espana",
         "away_team": "UPNFM",
         "home_logo": "https://static.flashscore.com/res/image/data/AkaXuWjT-dQeZ4aH3.png",
         "away_logo": "https://static.flashscore.com/res/image/data/pxcmLCme-WvziCH8E.png",
         "is_real": true,
-        "country": "HONDURAS"
+        "country": "HONDURAS",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Nacional - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "08:30 WIB",
-        "match_datetime": "2026-09-07T08:30:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Juticalpa",
         "away_team": "Genesis",
         "home_logo": "https://static.flashscore.com/res/image/data/UaqNuHUH-dtnFGY4p.png",
         "away_logo": "https://static.flashscore.com/res/image/data/YP7bDPmC-SrRE3YiP.png",
         "is_real": true,
-        "country": "HONDURAS"
+        "country": "HONDURAS",
+        "score_home": "0",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
@@ -1835,27 +1865,31 @@
         "sport": "Soccer",
         "competition": "Liga MX - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (62')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Cruz Azul",
         "away_team": "Santos Laguna",
         "home_logo": "https://static.flashscore.com/res/image/data/UNKNumiC-fmzv5kze.png",
         "away_logo": "https://static.flashscore.com/res/image/data/bZZNKGWH-bmPslben.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
         "competition": "Liga de Expansion MX - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "Interrupted",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Tapatio",
         "away_team": "Leones Negros",
         "home_logo": "https://static.flashscore.com/res/image/data/fDccjE76-UZH21AZ4.png",
         "away_logo": "https://static.flashscore.com/res/image/data/nXY0AehT-S4EHeFvE.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "1",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
@@ -1876,14 +1910,16 @@
         "sport": "Soccer",
         "competition": "Liga MX Women - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (20')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Tigres UANL W",
         "away_team": "Santos Laguna W",
         "home_logo": "https://static.flashscore.com/res/image/data/6BaUXnne-rg4dr7Mm.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Q13jzBle-fooLkWml.png",
         "is_real": true,
-        "country": "MEXICO"
+        "country": "MEXICO",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -1904,8 +1940,8 @@
         "sport": "Soccer",
         "competition": "National League",
         "match_date": "2026-09-07",
-        "match_time": "16:00 WIB",
-        "match_datetime": "2026-09-07T16:00:00+07:00",
+        "match_time": "LIVE (21')",
+        "match_datetime": "",
         "home_team": "Ispe FC",
         "away_team": "Mahar United",
         "home_logo": "https://static.flashscore.com/res/image/data/QFbv5eT0-nBrg8eks.png",
@@ -1932,27 +1968,31 @@
         "sport": "Soccer",
         "competition": "Liga Primera - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (65')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Ferretti",
         "away_team": "Managua FC",
         "home_logo": "https://static.flashscore.com/res/image/data/E5tycp8k-nXJKIqpI.png",
         "away_logo": "https://static.flashscore.com/res/image/data/hlZuRkA6-6y3mftLP.png",
         "is_real": true,
-        "country": "NICARAGUA"
+        "country": "NICARAGUA",
+        "score_home": "2",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
         "competition": "Liga Primera - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-09-07T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Matagalpa",
         "away_team": "Diriangen",
         "home_logo": "https://static.flashscore.com/res/image/data/6JL6oDUH-YkZgQT2l.png",
         "away_logo": "https://static.flashscore.com/res/image/data/v3USc5A6-MJ13UMKt.png",
         "is_real": true,
-        "country": "NICARAGUA"
+        "country": "NICARAGUA",
+        "score_home": "0",
+        "score_away": "3"
       },
       {
         "sport": "Soccer",
@@ -1986,14 +2026,16 @@
         "sport": "Soccer",
         "competition": "Leagues Cup - Play Offs NORTH & CENTRAL",
         "match_date": "2026-09-07",
-        "match_time": "08:15 WIB",
-        "match_datetime": "2026-09-07T08:15:00+07:00",
-        "home_team": "Toluca",
+        "match_time": "FT",
+        "match_datetime": "",
+        "home_team": "TolucaWinner: Toluca",
         "away_team": "Monterrey",
         "home_logo": "https://static.flashscore.com/res/image/data/KAF9lqRq-0pHVJYjM.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Gnf7VRQq-MVPKYVvK.png",
         "is_real": true,
-        "country": "AMERICA"
+        "country": "AMERICA",
+        "score_home": "2",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -2042,14 +2084,16 @@
         "sport": "Soccer",
         "competition": "LPF - Apertura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (54')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Alianza",
         "away_team": "San Francisco",
         "home_logo": "https://static.flashscore.com/res/image/data/4bfOPzRq-r3y5Ek2l.png",
         "away_logo": "https://static.flashscore.com/res/image/data/80z4opWH-vTLj5hDm.png",
         "is_real": true,
-        "country": "PANAMA"
+        "country": "PANAMA",
+        "score_home": "1",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
@@ -2115,14 +2159,16 @@
         "sport": "Soccer",
         "competition": "Liga 1 - Clausura",
         "match_date": "2026-09-07",
-        "match_time": "Half Time",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "FBC Melgar",
         "away_team": "AD Tarma",
         "home_logo": "https://static.flashscore.com/res/image/data/nsatlDU0-dl2Dbcr1.png",
         "away_logo": "https://static.flashscore.com/res/image/data/jgURPAUH-EXA8dtRS.png",
         "is_real": true,
-        "country": "PERU"
+        "country": "PERU",
+        "score_home": "3",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -2468,14 +2514,27 @@
         "sport": "Soccer",
         "competition": "Super League SRI",
         "match_date": "2026-09-07",
-        "match_time": "17:00 WIB",
-        "match_datetime": "2026-09-07T17:00:00+07:00",
+        "match_time": "LIVE (1')",
+        "match_datetime": "",
         "home_team": "New Young's SC",
         "away_team": "Sea Hawks",
         "home_logo": "https://static.flashscore.com/res/image/data/ImKVgIAN-Q3Wk8A4M.png",
         "away_logo": "https://static.flashscore.com/res/image/data/6qqBKs8k-tE1SvU1D.png",
         "is_real": true,
         "country": "LANKA"
+      },
+      {
+        "sport": "Soccer",
+        "competition": "Ligi Kuu Bara",
+        "match_date": "2026-09-07",
+        "match_time": "23:00 WIB",
+        "match_datetime": "2026-09-07T23:00:00+07:00",
+        "home_team": "Azam",
+        "away_team": "Namungo",
+        "home_logo": "https://static.flashscore.com/res/image/data/lxtDCY96-GMblXjD2.png",
+        "away_logo": "https://static.flashscore.com/res/image/data/jaqvLThT-xvhpN1dm.png",
+        "is_real": true,
+        "country": "TANZANIA"
       },
       {
         "sport": "Soccer",
@@ -2567,14 +2626,16 @@
         "sport": "Soccer",
         "competition": "Liga AUF Uruguaya - Clausura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (90+9')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "Liverpool M.",
         "away_team": "Boston River",
         "home_logo": "https://static.flashscore.com/res/image/data/vyrOK7jC-ziBT4qwJ.png",
         "away_logo": "https://static.flashscore.com/res/image/data/tCs8eX7k-pOoSyvxr.png",
         "is_real": true,
-        "country": "URUGUAY"
+        "country": "URUGUAY",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -2625,27 +2686,31 @@
         "sport": "Soccer",
         "competition": "NWSL Women",
         "match_date": "2026-09-07",
-        "match_time": "06:00 WIB",
-        "match_datetime": "2026-09-07T06:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Orlando Pride W",
         "away_team": "Houston Dash W",
         "home_logo": "https://static.flashscore.com/res/image/data/8vHrBEjC-OGu3TpGo.png",
         "away_logo": "https://static.flashscore.com/res/image/data/Cju15UkC-YLT3ZeZm.png",
         "is_real": true,
-        "country": "USA"
+        "country": "USA",
+        "score_home": "3",
+        "score_away": "1"
       },
       {
         "sport": "Soccer",
         "competition": "NWSL Women",
         "match_date": "2026-09-07",
-        "match_time": "08:00 WIB",
-        "match_datetime": "2026-09-07T08:00:00+07:00",
+        "match_time": "FT",
+        "match_datetime": "",
         "home_team": "Seattle Reign W",
         "away_team": "San Diego Wave W",
         "home_logo": "https://static.flashscore.com/res/image/data/nshKnLmC-d2qfNfdG.png",
         "away_logo": "https://static.flashscore.com/res/image/data/hnKmbzkC-0GkEBJzE.png",
         "is_real": true,
-        "country": "USA"
+        "country": "USA",
+        "score_home": "1",
+        "score_away": "0"
       },
       {
         "sport": "Soccer",
@@ -2748,14 +2813,28 @@
         "sport": "Soccer",
         "competition": "Liga FUTVE - Clausura",
         "match_date": "2026-09-07",
-        "match_time": "LIVE (68')",
+        "match_time": "FT",
         "match_datetime": "",
         "home_team": "La Guaira",
         "away_team": "Anzoategui FC",
         "home_logo": "https://static.flashscore.com/res/image/data/W6fBjGme-YXN7iZz4.png",
         "away_logo": "https://static.flashscore.com/res/image/data/GQE9UdhT-E3syp48g.png",
         "is_real": true,
-        "country": "VENEZUELA"
+        "country": "VENEZUELA",
+        "score_home": "2",
+        "score_away": "0"
+      },
+      {
+        "sport": "NFL",
+        "competition": "Tournament",
+        "match_date": "2026-09-07",
+        "match_time": "TBA",
+        "match_datetime": "",
+        "home_team": "Prix of MontereyWatch Toledo",
+        "away_team": "Michigan StateWatch",
+        "home_logo": "",
+        "away_logo": "",
+        "is_real": true
       }
     ],
     "demo": [
@@ -2769,18 +2848,6 @@
         "away_team": "Boston Celtics",
         "home_logo": "https://www.thesportsdb.com/images/media/team/badge/qxxjyx1421553225.png",
         "away_logo": "https://www.thesportsdb.com/images/media/team/badge/0j55y41568846543.png",
-        "is_real": false
-      },
-      {
-        "sport": "NFL",
-        "competition": "Demo Data (Off Season)",
-        "match_date": "2026-09-07",
-        "match_time": "06:15 WIB",
-        "match_datetime": "2026-09-07T06:15:00+07:00",
-        "home_team": "Kansas City Chiefs",
-        "away_team": "San Francisco 49ers",
-        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/qxxjyx1421553225.png",
-        "away_logo": "https://www.thesportsdb.com/images/media/team/badge/xwqytr1421553061.png",
         "is_real": false
       }
     ]
